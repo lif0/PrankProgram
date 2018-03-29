@@ -4,4 +4,4 @@
 и айди пользователя, чьи команды принимаются, в переменную ID_CHAT<br>
 <img src="https://github.com/lif0/PrankProgram/blob/master/github/infobot.png"></img>
 
-Отправте команду <b>/help</b> боту и получите весь функционал
+Отправте команду <b><i>/help</i></b> боту и получите весь функционал
