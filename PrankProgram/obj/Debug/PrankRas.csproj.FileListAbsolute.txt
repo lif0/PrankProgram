@@ -1,0 +1,11 @@
+E:\Project\C#\[Visual Studio]\[Project]\поиграться\PrankRas\PrankRas\bin\Debug\PrankRas.exe.config
+E:\Project\C#\[Visual Studio]\[Project]\поиграться\PrankRas\PrankRas\bin\Debug\PrankRas.exe
+E:\Project\C#\[Visual Studio]\[Project]\поиграться\PrankRas\PrankRas\bin\Debug\PrankRas.pdb
+E:\Project\C#\[Visual Studio]\[Project]\поиграться\PrankRas\PrankRas\obj\Debug\PrankRas.exe
+E:\Project\C#\[Visual Studio]\[Project]\поиграться\PrankRas\PrankRas\obj\Debug\PrankRas.pdb
+E:\Project\C#\[Projects]\[Project]\PrankRas\PrankRas\bin\Debug\PrankRas.exe.config
+E:\Project\C#\[Projects]\[Project]\PrankRas\PrankRas\obj\Debug\PrankRas.exe
+E:\Project\C#\[Projects]\[Project]\PrankRas\PrankRas\obj\Debug\PrankRas.pdb
+E:\Project\C#\[Projects]\[Project]\PrankRas\PrankRas\bin\Debug\PrankRas.exe
+E:\Project\C#\[Projects]\[Project]\PrankRas\PrankRas\bin\Debug\PrankRas.pdb
+E:\Project\C#\[Projects]\[Project]\PrankRas\PrankRas\obj\Debug\PrankRas.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Project\C#\[Projects]\[Project]\PrankProgram\PrankRas\bin\Debug\PrankProgram.exe.config
+D:\Project\C#\[Projects]\[Project]\PrankProgram\PrankRas\bin\Debug\PrankProgram.exe
+D:\Project\C#\[Projects]\[Project]\PrankProgram\PrankRas\bin\Debug\PrankProgram.pdb
+D:\Project\C#\[Projects]\[Project]\PrankProgram\PrankRas\obj\Debug\PrankProgram.csprojResolveAssemblyReference.cache
+D:\Project\C#\[Projects]\[Project]\PrankProgram\PrankRas\obj\Debug\PrankProgram.csproj.CoreCompileInputs.cache
+D:\Project\C#\[Projects]\[Project]\PrankProgram\PrankRas\obj\Debug\PrankProgram.exe
+D:\Project\C#\[Projects]\[Project]\PrankProgram\PrankRas\obj\Debug\PrankProgram.pdb
+D:\Project\C#\[Projects]\[Project]\PrankProgram\PrankProgram\bin\Debug\PrankProgram.exe.config
+D:\Project\C#\[Projects]\[Project]\PrankProgram\PrankProgram\bin\Debug\PrankProgram.exe
+D:\Project\C#\[Projects]\[Project]\PrankProgram\PrankProgram\bin\Debug\PrankProgram.pdb
+D:\Project\C#\[Projects]\[Project]\PrankProgram\PrankProgram\obj\Debug\PrankProgram.csprojResolveAssemblyReference.cache
+D:\Project\C#\[Projects]\[Project]\PrankProgram\PrankProgram\obj\Debug\PrankProgram.csproj.CoreCompileInputs.cache
+D:\Project\C#\[Projects]\[Project]\PrankProgram\PrankProgram\obj\Debug\PrankProgram.exe
+D:\Project\C#\[Projects]\[Project]\PrankProgram\PrankProgram\obj\Debug\PrankProgram.pdb
