@@ -49,7 +49,7 @@ class PerformCommand
 
             case "getscreen": { GetScreenShot(); break; }//Возвращает Скриншот экрана
 
-            case "Version": { Program.SendMessage("Версия v1.2", Program.ID_CHAT); break; }//Возвращает версию программы
+            case "version": { Program.SendMessage("Версия v1.2", Program.ID_CHAT); break; }//Возвращает версию программы
 
             default: Program.SendMessage("===Команда не найдена===", Program.ID_CHAT); break;
         }
